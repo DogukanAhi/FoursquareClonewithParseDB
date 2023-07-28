@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E6748E0-D7D2-4180-9CED-B18DF6A6E632"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD288AFB-48FB-4876-BF74-57AB4153B5C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fourSquareClone/MapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE5F54D3-8807-4493-A028-09F7DEA60E24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fourSquareClone/UploadVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "uploadButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE5F54D3-8807-4493-A028-09F7DEA60E24 - 2ce4a01f77f4d966"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquareClone.UploadVC.uploadButtonClicked(Any) -&gt; ()"
+                  moduleName = "fourSquareClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dogukanahi/Desktop/I%CC%87OS%20DEV/fourSquareClone/fourSquareClone/UploadVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "CE5F54D3-8807-4493-A028-09F7DEA60E24 - 2ce4a01f77f4d939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquareClone.UploadVC.uploadButtonClicked(Any) -&gt; ()"
+                  moduleName = "fourSquareClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dogukanahi/Desktop/I%CC%87OS%20DEV/fourSquareClone/fourSquareClone/UploadVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
